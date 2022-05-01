@@ -1,6 +1,6 @@
 # Minecraft-Backrooms Mod!
 
--A Backrooms Mod But Inside Of Minecraft.
+A Backrooms Mod But Inside Of Minecraft.
 
 
 
